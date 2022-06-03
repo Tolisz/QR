@@ -1,7 +1,7 @@
 function [c, s, R] = QR(H)
 % _________________________________________________________________________
 %
-% Autor: Anatolii Radionov 317266
+% Autor: Anatolii Radionov
 %
 % [c, s, R] = QR(H)
 % 
