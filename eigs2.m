@@ -1,7 +1,7 @@
 function [e] = eigs2(A)
 % _________________________________________________________________________
 %
-% Autor: Anatolii Radionov 317266
+% Autor: Anatolii Radionov
 %
 % [e] = eigs2(A)
 %
