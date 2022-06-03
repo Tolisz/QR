@@ -1,7 +1,7 @@
 function [c, s] = cs(x)
 % _________________________________________________________________________
 %
-% Autor: Anatolii Radionov 317266
+% Autor: Anatolii Radionov
 %
 % [c, s] = cs(x)
 %
