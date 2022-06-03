@@ -1,7 +1,7 @@
 function [A] = RQ(c, s, R)
 % _________________________________________________________________________
 %
-% Autor: Anatolii Radionov 317266
+% Autor: Anatolii Radionov
 %
 % [A] = RQ(c, s, R)
 %
