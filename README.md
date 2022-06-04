@@ -1,6 +1,6 @@
 # QR algorithm
 
-QR algoritm for eigenvalues of a Hessenberg matrix. 
+QR algoritm for eigenvalues of a complex Hessenberg matrix. 
 
 # Main Function 
 
